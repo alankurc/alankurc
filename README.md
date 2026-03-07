@@ -5,8 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4992ea?style=flat-square&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-c15f3c?style=flat-square&logo=claude&logoColor=white)
 
 ### Favorite quote
 
@@ -16,6 +19,7 @@
 
 - 💻 **[Someone Vision](https://someonevision.com)** - Own software agency
 - 📻 **[Radio Border Retro Musica](https://play.google.com/store/apps/details?id=com.borderetro.radio)** - Mobile App for a radio web streaming
+- 🪞 **[noitome mirror](https://github.com/alankurc/emotion-posture-tracker)** - Emotions & Posture Tracker
 
 ## Legacy Projects
 
