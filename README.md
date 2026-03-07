@@ -19,6 +19,8 @@
 
 - 💻 **[Someone Vision](https://someonevision.com)** - Own software agency
 - 📻 **[Radio Border Retro Musica](https://play.google.com/store/apps/details?id=com.borderetro.radio)** - Mobile App for a radio web streaming
+
+## Vibe Coded Projects
 - 🪞 **[noitome mirror](https://github.com/alankurc/emotion-posture-tracker)** - Emotions & Posture Tracker
 
 ## Legacy Projects
