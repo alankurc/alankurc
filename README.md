@@ -4,12 +4,12 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20native-000?style=flat-square&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4992ea?style=flat-square&logo=google-gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-c15f3c?style=flat-square&logo=claude&logoColor=white)
 
 ### Favorite quote
 
@@ -22,6 +22,7 @@
 
 ## Vibe Coded Projects
 - 🪞 **[noitome mirror](https://github.com/alankurc/emotion-posture-tracker)** - Emotions & Posture Tracker
+- 💪 **[Body mass Tracker](https://github.com/alankurc/indexer-body-mass)** - Indexer Body Mass
 
 ## Legacy Projects
 
@@ -30,11 +31,6 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alankurc)
-
-## What I'm Doing
-
-- **Mobile Apps** - Learning and building mobile apps with react native & flutter
-- **AI workflows** - Learning how to work with IA agents
 
 ## Connect
 
